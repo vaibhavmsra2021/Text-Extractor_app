@@ -1,4 +1,4 @@
-## Knowledge Transfer: OCR_Script
+## Setup Documentation: OCR_Script
 ### Objective
 The objective of this script is to automate the interaction with a specified application by capturing specific button areas on the screen, saving these button areas, and clicking them repeatedly. Additionally, it performs Optical Character Recognition (OCR) on selected regions within the application window and saves the extracted text data to an Excel file.
 
